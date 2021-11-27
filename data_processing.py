@@ -1,2 +1,2 @@
-print ("fraud detection project")
+print ("fraud_detection project")
 
